@@ -28,7 +28,7 @@ font-family defines the font and sets back up fonts to use ifht eh first font is
 /* padding sets space between the list items.
 margin gives the list items room from the right of the page.
 float right sets text to the right side of the header.
-font-family sets the fonts to be used and had back ups incase fonts don't work in their order.
+font-family sets the fonts to be used and has back ups incase fonts don't work in their order.
 font-size sets the font size. */
 .header nav {
     padding-top: 15px;
@@ -74,8 +74,8 @@ margin-left moves the "content" 20px off the left side of the page. */
     margin-left: 20px;
 }
 /* margin moves the class="benefits" off the right side of the page.
-padding gives room from the border.
- clear: both sets where items are allowed to float.
+ padding gives room from the border.
+ clear: both, sets where items are allowed to float.
  width sets the background to 20% of the page.
  height gives all he content room while taking into account the padding for text.
  */
